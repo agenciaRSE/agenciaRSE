@@ -65,6 +65,13 @@ diego_meijide:
 
 > La IA me asiste; no me dirige. La uso a diario para programar y revisar, pero las decisiones las toma una persona y cada cambio se revisa antes de llegar a tu web.
 
+### Mi actividad
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agenciaRSE/agenciaRSE/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/agenciaRSE/agenciaRSE/output/github-snake.svg" width="100%" alt="Serpiente que recorre y se come el calendario de contribuciones de GitHub de Diego Meijide">
+</picture>
+
 <details>
 <summary><b>🇬🇧 English</b></summary>
 
