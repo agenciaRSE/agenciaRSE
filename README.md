@@ -106,9 +106,9 @@ Browser extensions:
 
 Open source:
 
-- **[Lupa Zoom](https://agenciarse.com/software-a-medida/plugins-wordpress/lupa-zoom/)**: the WooCommerce product zoom on any image in any WordPress theme. One CSS class, no jQuery, about 7 KB. [Code](https://github.com/agenciaRSE/lupa-zoom).
+- **[Lupa Zoom](https://agenciarse.com/en/custom-software/wordpress-plugins/lupa-zoom/)**: the WooCommerce product zoom on any image in any WordPress theme. One CSS class, no jQuery, about 7 KB. [Code](https://github.com/agenciaRSE/lupa-zoom).
 - **[Simple Favorites → My Favorites](https://github.com/agenciaRSE/sf-to-mf-migrator)**: migrates user favorites between plugins and replaces the shortcodes. Archived as a reference.
-- **[DeskWidgets](https://agenciarse.com/software-a-medida/widget-consumo-claude-code/)**: native Windows desktop widgets for Wi-Fi and network, PC performance and Claude Code usage (tokens, cost and the 5-hour and weekly limits). No installers, no dependencies. [Code](https://github.com/agenciaRSE/deskwidgets).
+- **[DeskWidgets](https://agenciarse.com/en/custom-software/claude-code-usage-widget/)**: native Windows desktop widgets for Wi-Fi and network, PC performance and Claude Code usage (tokens, cost and the 5-hour and weekly limits). No installers, no dependencies. [Code](https://github.com/agenciaRSE/deskwidgets).
 - **[ChronoMap](https://www.chronomap.top)**: world clock with a map and 3D globe, meeting planner and Discord timestamp generator. No account, no ads. [Code](https://github.com/agenciaRSE/chronomap).
 - **[Kanban Widget](https://github.com/agenciaRSE/kanban-widget)**: floating Kanban board for the Windows desktop (Tauri v2 + React, about 42 MB of RAM).
 - **[AI Terminal Code Cleaner](https://github.com/agenciaRSE/ai-terminal-code-cleaner)**: cleans AI-generated code so it pastes cleanly into the terminal. Python stdlib only, no network.
