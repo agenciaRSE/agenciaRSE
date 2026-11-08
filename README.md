@@ -72,7 +72,6 @@ diego_meijide:
 
 - **[DeskWidgets](https://agenciarse.com/software-a-medida/widget-consumo-claude-code/)**: widgets nativos para el escritorio de Windows con Wi-Fi y red, rendimiento del PC y consumo de Claude Code (tokens, coste y límites de 5 h y semanal). Sin instaladores ni dependencias. [Código](https://github.com/agenciaRSE/deskwidgets).
 - **[ChronoMap](https://www.chronomap.top)**: reloj mundial con mapa y globo 3D, planificador de reuniones y generador de timestamps de Discord. Sin cuenta ni anuncios. [Código](https://github.com/agenciaRSE/chronomap).
-- **[Kanban Widget](https://github.com/agenciaRSE/kanban-widget)**: tablero Kanban flotante para el escritorio de Windows (Tauri v2 + React, unos 42 MB de RAM).
 - **[AI Terminal Code Cleaner](https://github.com/agenciaRSE/ai-terminal-code-cleaner)**: limpia el código que genera la IA para que se pegue bien en la terminal. Python estándar, sin red.
 
 ### Cómo uso la IA
@@ -110,7 +109,6 @@ Open source:
 - **[Simple Favorites → My Favorites](https://github.com/agenciaRSE/sf-to-mf-migrator)**: migrates user favorites between plugins and replaces the shortcodes. Archived as a reference.
 - **[DeskWidgets](https://agenciarse.com/en/custom-software/claude-code-usage-widget/)**: native Windows desktop widgets for Wi-Fi and network, PC performance and Claude Code usage (tokens, cost and the 5-hour and weekly limits). No installers, no dependencies. [Code](https://github.com/agenciaRSE/deskwidgets).
 - **[ChronoMap](https://www.chronomap.top)**: world clock with a map and 3D globe, meeting planner and Discord timestamp generator. No account, no ads. [Code](https://github.com/agenciaRSE/chronomap).
-- **[Kanban Widget](https://github.com/agenciaRSE/kanban-widget)**: floating Kanban board for the Windows desktop (Tauri v2 + React, about 42 MB of RAM).
 - **[AI Terminal Code Cleaner](https://github.com/agenciaRSE/ai-terminal-code-cleaner)**: cleans AI-generated code so it pastes cleanly into the terminal. Python stdlib only, no network.
 
 AI assists me; it doesn't direct me. A person makes the decisions and every change is reviewed before it goes live.
