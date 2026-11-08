@@ -63,7 +63,17 @@ diego_meijide:
 
 ### Código abierto
 
+**Plugins WordPress**
+
+- **[Lupa Zoom](https://github.com/agenciaRSE/lupa-zoom)**: el zoom de producto de WooCommerce en cualquier imagen de cualquier tema. Una clase CSS, sin jQuery, unos 7 KB.
+- **[Simple Favorites → My Favorites](https://github.com/agenciaRSE/sf-to-mf-migrator)**: migra los favoritos de los usuarios entre plugins y reemplaza los shortcodes. Archivado como referencia.
+
+**Herramientas**
+
 - **[DeskWidgets](https://github.com/agenciaRSE/deskwidgets)**: widgets nativos para el escritorio de Windows con Wi-Fi y red, rendimiento del PC y consumo de Claude Code (tokens, coste y límites de 5 h y semanal). Sin instaladores ni dependencias.
+- **[ChronoMap](https://www.chronomap.top)**: reloj mundial con mapa y globo 3D, planificador de reuniones y generador de timestamps de Discord. Sin cuenta ni anuncios. [Código](https://github.com/agenciaRSE/chronomap).
+- **[Kanban Widget](https://github.com/agenciaRSE/kanban-widget)**: tablero Kanban flotante para el escritorio de Windows (Tauri v2 + React, unos 42 MB de RAM).
+- **[AI Terminal Code Cleaner](https://github.com/agenciaRSE/ai-terminal-code-cleaner)**: limpia el código que genera la IA para que se pegue bien en la terminal. Python estándar, sin red.
 
 ### Cómo uso la IA
 
@@ -89,7 +99,19 @@ I'm Diego Meijide, founder of **[AGENCIA RSE](https://agenciarse.com/en/studio/)
 - **AI for WordPress**: assistants and connecting Claude or ChatGPT to your site, with limited permissions and a way to undo. [More](https://agenciarse.com/en/wordpress-ai/)
 - **Custom software and browser extensions** (Manifest V3). [More](https://agenciarse.com/en/browser-extensions/)
 
-Open source: **[DeskWidgets](https://github.com/agenciaRSE/deskwidgets)**, native Windows desktop widgets for Wi-Fi and network, PC performance and Claude Code usage (tokens, cost and the 5-hour and weekly limits). No installers, no dependencies.
+Browser extensions:
+
+- **[KVM Console Paste](https://agenciarse.com/en/browser-extensions/kvm-console-paste/)**: paste text into web KVM consoles (noVNC) by simulating keystrokes. Free on the Chrome Web Store.
+- **[Tab Audio Recorder](https://agenciarse.com/en/browser-extensions/tab-audio-recorder/)**: record the audio of a Chrome tab as WebM or MP3, all locally.
+
+Open source:
+
+- **[Lupa Zoom](https://github.com/agenciaRSE/lupa-zoom)**: the WooCommerce product zoom on any image in any WordPress theme. One CSS class, no jQuery, about 7 KB.
+- **[Simple Favorites → My Favorites](https://github.com/agenciaRSE/sf-to-mf-migrator)**: migrates user favorites between plugins and replaces the shortcodes. Archived as a reference.
+- **[DeskWidgets](https://github.com/agenciaRSE/deskwidgets)**: native Windows desktop widgets for Wi-Fi and network, PC performance and Claude Code usage (tokens, cost and the 5-hour and weekly limits). No installers, no dependencies.
+- **[ChronoMap](https://www.chronomap.top)**: world clock with a map and 3D globe, meeting planner and Discord timestamp generator. No account, no ads. [Code](https://github.com/agenciaRSE/chronomap).
+- **[Kanban Widget](https://github.com/agenciaRSE/kanban-widget)**: floating Kanban board for the Windows desktop (Tauri v2 + React, about 42 MB of RAM).
+- **[AI Terminal Code Cleaner](https://github.com/agenciaRSE/ai-terminal-code-cleaner)**: cleans AI-generated code so it pastes cleanly into the terminal. Python stdlib only, no network.
 
 AI assists me; it doesn't direct me. A person makes the decisions and every change is reviewed before it goes live.
 
