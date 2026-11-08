@@ -65,7 +65,7 @@ diego_meijide:
 
 **Plugins WordPress**
 
-- **[Lupa Zoom](https://github.com/agenciaRSE/lupa-zoom)**: el zoom de producto de WooCommerce en cualquier imagen de cualquier tema. Una clase CSS, sin jQuery, unos 7 KB.
+- **[Lupa Zoom](https://agenciarse.com/software-a-medida/plugins-wordpress/lupa-zoom/)**: el zoom de producto de WooCommerce en cualquier imagen de cualquier tema. Una clase CSS, sin jQuery, unos 7 KB. [Código](https://github.com/agenciaRSE/lupa-zoom).
 - **[Simple Favorites → My Favorites](https://github.com/agenciaRSE/sf-to-mf-migrator)**: migra los favoritos de los usuarios entre plugins y reemplaza los shortcodes. Archivado como referencia.
 
 **Herramientas**
@@ -106,7 +106,7 @@ Browser extensions:
 
 Open source:
 
-- **[Lupa Zoom](https://github.com/agenciaRSE/lupa-zoom)**: the WooCommerce product zoom on any image in any WordPress theme. One CSS class, no jQuery, about 7 KB.
+- **[Lupa Zoom](https://agenciarse.com/software-a-medida/plugins-wordpress/lupa-zoom/)**: the WooCommerce product zoom on any image in any WordPress theme. One CSS class, no jQuery, about 7 KB. [Code](https://github.com/agenciaRSE/lupa-zoom).
 - **[Simple Favorites → My Favorites](https://github.com/agenciaRSE/sf-to-mf-migrator)**: migrates user favorites between plugins and replaces the shortcodes. Archived as a reference.
 - **[DeskWidgets](https://github.com/agenciaRSE/deskwidgets)**: native Windows desktop widgets for Wi-Fi and network, PC performance and Claude Code usage (tokens, cost and the 5-hour and weekly limits). No installers, no dependencies.
 - **[ChronoMap](https://www.chronomap.top)**: world clock with a map and 3D globe, meeting planner and Discord timestamp generator. No account, no ads. [Code](https://github.com/agenciaRSE/chronomap).
