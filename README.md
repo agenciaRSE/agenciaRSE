@@ -89,6 +89,8 @@ I'm Diego Meijide, founder of **[AGENCIA RSE](https://agenciarse.com/en/studio/)
 - **AI for WordPress**: assistants and connecting Claude or ChatGPT to your site, with limited permissions and a way to undo. [More](https://agenciarse.com/en/wordpress-ai/)
 - **Custom software and browser extensions** (Manifest V3). [More](https://agenciarse.com/en/browser-extensions/)
 
+Open source: **[DeskWidgets](https://github.com/agenciaRSE/deskwidgets)**, native Windows desktop widgets for Wi-Fi and network, PC performance and Claude Code usage (tokens, cost and the 5-hour and weekly limits). No installers, no dependencies.
+
 AI assists me; it doesn't direct me. A person makes the decisions and every change is reviewed before it goes live.
 
 </details>
