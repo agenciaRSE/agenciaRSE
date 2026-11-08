@@ -61,6 +61,10 @@ diego_meijide:
 - **[KVM Console Paste](https://agenciarse.com/extensiones-navegador/kvm-console-paste/)**: pega texto en consolas KVM web (noVNC) simulando pulsaciones. Gratis en Chrome Web Store.
 - **[Tab Audio Recorder](https://agenciarse.com/extensiones-navegador/tab-audio-recorder/)**: graba el audio de una pestaña de Chrome en WebM o MP3, todo en local.
 
+### Código abierto
+
+- **[DeskWidgets](https://github.com/agenciaRSE/deskwidgets)**: widgets nativos para el escritorio de Windows con Wi-Fi y red, rendimiento del PC y consumo de Claude Code (tokens, coste y límites de 5 h y semanal). Sin instaladores ni dependencias.
+
 ### Cómo uso la IA
 
 > La IA me asiste; no me dirige. La uso a diario para programar y revisar, pero las decisiones las toma una persona y cada cambio se revisa antes de llegar a tu web.
