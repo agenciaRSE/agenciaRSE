@@ -60,6 +60,7 @@ diego_meijide:
 
 - **[KVM Console Paste](https://agenciarse.com/extensiones-navegador/kvm-console-paste/)**: pega texto en consolas KVM web (noVNC) simulando pulsaciones. Gratis en Chrome Web Store.
 - **[Tab Audio Recorder](https://agenciarse.com/extensiones-navegador/tab-audio-recorder/)**: graba el audio de una pestaña de Chrome en WebM o MP3, todo en local.
+- **[CleanTabs AI](https://agenciarse.com/extensiones-navegador/cleantabs-ai/)**: cierra las pestañas que ya no necesitas con la IA del propio navegador y aprende de tus correcciones. Todo en local. Gratis en Chrome Web Store.
 
 ### Código abierto
 
@@ -102,6 +103,7 @@ Browser extensions:
 
 - **[KVM Console Paste](https://agenciarse.com/en/browser-extensions/kvm-console-paste/)**: paste text into web KVM consoles (noVNC) by simulating keystrokes. Free on the Chrome Web Store.
 - **[Tab Audio Recorder](https://agenciarse.com/en/browser-extensions/tab-audio-recorder/)**: record the audio of a Chrome tab as WebM or MP3, all locally.
+- **[CleanTabs AI](https://agenciarse.com/en/browser-extensions/cleantabs-ai/)**: closes the tabs you no longer need using the browser's built-in AI and learns from your corrections. All local. Free on the Chrome Web Store.
 
 Open source:
 
