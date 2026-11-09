@@ -73,7 +73,7 @@ diego_meijide:
 
 - **[DeskWidgets](https://agenciarse.com/software-a-medida/widget-consumo-claude-code/)**: widgets nativos para el escritorio de Windows con Wi-Fi y red, rendimiento del PC y consumo de Claude Code (tokens, coste y límites de 5 h y semanal). Sin instaladores ni dependencias. [Código](https://github.com/agenciaRSE/deskwidgets).
 - **[ChronoMap](https://www.chronomap.top)**: reloj mundial con mapa y globo 3D, planificador de reuniones y generador de timestamps de Discord. Sin cuenta ni anuncios. [Código](https://github.com/agenciaRSE/chronomap).
-- **[Auto Clipboard](https://github.com/agenciaRSE/auto-clipboard)**: skill para Claude Code y Claude Desktop que copia en el portapapeles los comandos, textos, rutas y URLs que Claude te da para pegar. Las contraseñas se generan en local y nunca aparecen en el chat.
+- **[Auto Clipboard](https://agenciarse.com/skills-claude/auto-clipboard/)**: skill para Claude Code y Claude Desktop que copia en el portapapeles los comandos, textos, rutas y URLs que Claude te da para pegar. Las contraseñas se generan en local y nunca aparecen en el chat. [Código](https://github.com/agenciaRSE/auto-clipboard).
 
 ### Cómo uso la IA
 
@@ -111,7 +111,7 @@ Open source:
 - **[Simple Favorites → My Favorites](https://github.com/agenciaRSE/sf-to-mf-migrator)**: migrates user favorites between plugins and replaces the shortcodes. Archived as a reference.
 - **[DeskWidgets](https://agenciarse.com/en/custom-software/claude-code-usage-widget/)**: native Windows desktop widgets for Wi-Fi and network, PC performance and Claude Code usage (tokens, cost and the 5-hour and weekly limits). No installers, no dependencies. [Code](https://github.com/agenciaRSE/deskwidgets).
 - **[ChronoMap](https://www.chronomap.top)**: world clock with a map and 3D globe, meeting planner and Discord timestamp generator. No account, no ads. [Code](https://github.com/agenciaRSE/chronomap).
-- **[Auto Clipboard](https://github.com/agenciaRSE/auto-clipboard)**: a Claude Code and Claude Desktop skill that copies to your clipboard the commands, texts, paths and URLs Claude gives you to paste. Passwords are generated locally and never appear in the chat.
+- **[Auto Clipboard](https://agenciarse.com/en/claude-skills/auto-clipboard/)**: a Claude Code and Claude Desktop skill that copies to your clipboard the commands, texts, paths and URLs Claude gives you to paste. Passwords are generated locally and never appear in the chat. [Code](https://github.com/agenciaRSE/auto-clipboard).
 
 AI assists me; it doesn't direct me. A person makes the decisions and every change is reviewed before it goes live.
 
