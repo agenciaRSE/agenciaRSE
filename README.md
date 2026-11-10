@@ -74,6 +74,7 @@ diego_meijide:
 - **[DeskWidgets](https://agenciarse.com/software-a-medida/widget-consumo-claude-code/)**: widgets nativos para el escritorio de Windows con Wi-Fi y red, rendimiento del PC y consumo de Claude Code (tokens, coste y límites de 5 h y semanal). Sin instaladores ni dependencias. [Código](https://github.com/agenciaRSE/deskwidgets).
 - **[ChronoMap](https://www.chronomap.top)**: reloj mundial con mapa y globo 3D, planificador de reuniones y generador de timestamps de Discord. Sin cuenta ni anuncios. [Código](https://github.com/agenciaRSE/chronomap).
 - **[Auto Clipboard](https://agenciarse.com/skills-claude/auto-clipboard/)**: skill para Claude Code y Claude Desktop que copia en el portapapeles los comandos, textos, rutas y URLs que Claude te da para pegar. Las contraseñas se generan en local y nunca aparecen en el chat. [Código](https://github.com/agenciaRSE/auto-clipboard).
+- **[WP Plugin Zip](https://agenciarse.com/skills-claude/wp-plugin-zip/)**: skill para Claude Code y Claude Desktop que crea los .zip de plugins y temas de WordPress para que se instalen a la primera, y explica por qué falla un zip. Se acabó el «El archivo del plugin no existe». [Código](https://github.com/agenciaRSE/wp-plugin-zip).
 
 ### Proyectos solidarios
 
@@ -116,6 +117,7 @@ Open source:
 - **[DeskWidgets](https://agenciarse.com/en/custom-software/claude-code-usage-widget/)**: native Windows desktop widgets for Wi-Fi and network, PC performance and Claude Code usage (tokens, cost and the 5-hour and weekly limits). No installers, no dependencies. [Code](https://github.com/agenciaRSE/deskwidgets).
 - **[ChronoMap](https://www.chronomap.top)**: world clock with a map and 3D globe, meeting planner and Discord timestamp generator. No account, no ads. [Code](https://github.com/agenciaRSE/chronomap).
 - **[Auto Clipboard](https://agenciarse.com/en/claude-skills/auto-clipboard/)**: a Claude Code and Claude Desktop skill that copies to your clipboard the commands, texts, paths and URLs Claude gives you to paste. Passwords are generated locally and never appear in the chat. [Code](https://github.com/agenciaRSE/auto-clipboard).
+- **[WP Plugin Zip](https://agenciarse.com/en/claude-skills/wp-plugin-zip/)**: a Claude Code and Claude Desktop skill that builds WordPress plugin and theme .zip files that install the first time, and tells you why a zip won't. No more "Plugin file does not exist". [Code](https://github.com/agenciaRSE/wp-plugin-zip).
 
 Charity projects:
 
