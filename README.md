@@ -75,6 +75,10 @@ diego_meijide:
 - **[ChronoMap](https://www.chronomap.top)**: reloj mundial con mapa y globo 3D, planificador de reuniones y generador de timestamps de Discord. Sin cuenta ni anuncios. [Código](https://github.com/agenciaRSE/chronomap).
 - **[Auto Clipboard](https://agenciarse.com/skills-claude/auto-clipboard/)**: skill para Claude Code y Claude Desktop que copia en el portapapeles los comandos, textos, rutas y URLs que Claude te da para pegar. Las contraseñas se generan en local y nunca aparecen en el chat. [Código](https://github.com/agenciaRSE/auto-clipboard).
 
+### Proyectos solidarios
+
+- **[Fund One](https://fund-one.org/)**: plataforma gratuita que concentra las donaciones en una sola familia verificada hasta cubrir su objetivo, y después pasa a la siguiente. Ahora ayuda a la familia de Islam Abuhamada, en Gaza. Desarrollé la plataforma; no cobro comisión y las donaciones van directas por Chuffed.
+
 ### Cómo uso la IA
 
 > La IA me asiste; no me dirige. La uso a diario para programar y revisar, pero las decisiones las toma una persona y cada cambio se revisa antes de llegar a tu web.
@@ -112,6 +116,10 @@ Open source:
 - **[DeskWidgets](https://agenciarse.com/en/custom-software/claude-code-usage-widget/)**: native Windows desktop widgets for Wi-Fi and network, PC performance and Claude Code usage (tokens, cost and the 5-hour and weekly limits). No installers, no dependencies. [Code](https://github.com/agenciaRSE/deskwidgets).
 - **[ChronoMap](https://www.chronomap.top)**: world clock with a map and 3D globe, meeting planner and Discord timestamp generator. No account, no ads. [Code](https://github.com/agenciaRSE/chronomap).
 - **[Auto Clipboard](https://agenciarse.com/en/claude-skills/auto-clipboard/)**: a Claude Code and Claude Desktop skill that copies to your clipboard the commands, texts, paths and URLs Claude gives you to paste. Passwords are generated locally and never appear in the chat. [Code](https://github.com/agenciaRSE/auto-clipboard).
+
+Charity projects:
+
+- **[Fund One](https://fund-one.org/)**: a free platform that focuses donations on one verified family until their goal is met, then moves on to the next. It currently supports Islam Abuhamada's family in Gaza. I built the platform; I take no cut, and donations go directly through Chuffed.
 
 AI assists me; it doesn't direct me. A person makes the decisions and every change is reviewed before it goes live.
 
