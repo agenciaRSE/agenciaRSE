@@ -75,6 +75,7 @@ diego_meijide:
 - **[ChronoMap](https://www.chronomap.top)**: reloj mundial con mapa y globo 3D, planificador de reuniones y generador de timestamps de Discord. Sin cuenta ni anuncios. [Código](https://github.com/agenciaRSE/chronomap).
 - **[Auto Clipboard](https://agenciarse.com/skills-claude/auto-clipboard/)**: skill para Claude Code y Claude Desktop que copia en el portapapeles los comandos, textos, rutas y URLs que Claude te da para pegar. Las contraseñas se generan en local y nunca aparecen en el chat. [Código](https://github.com/agenciaRSE/auto-clipboard).
 - **[WP Plugin Zip](https://agenciarse.com/skills-claude/wp-plugin-zip/)**: skill para Claude Code y Claude Desktop que crea los .zip de plugins y temas de WordPress para que se instalen a la primera, y explica por qué falla un zip. Se acabó el «El archivo del plugin no existe». [Código](https://github.com/agenciaRSE/wp-plugin-zip).
+- **[Email MCP (IMAP/SMTP)](https://agenciarse.com/ia-wordpress/servidor-mcp/#ejemplo)**: servidor MCP para que Claude lea, busque, redacte y envíe correo desde cualquier buzón IMAP/SMTP (SiteGround, cPanel, Plesk…). Un solo archivo de Python, sin dependencias, y la contraseña en el almacén seguro del sistema. [Código](https://github.com/agenciaRSE/imap-email-mcp).
 
 ### Proyectos solidarios
 
@@ -118,6 +119,7 @@ Open source:
 - **[ChronoMap](https://www.chronomap.top)**: world clock with a map and 3D globe, meeting planner and Discord timestamp generator. No account, no ads. [Code](https://github.com/agenciaRSE/chronomap).
 - **[Auto Clipboard](https://agenciarse.com/en/claude-skills/auto-clipboard/)**: a Claude Code and Claude Desktop skill that copies to your clipboard the commands, texts, paths and URLs Claude gives you to paste. Passwords are generated locally and never appear in the chat. [Code](https://github.com/agenciaRSE/auto-clipboard).
 - **[WP Plugin Zip](https://agenciarse.com/en/claude-skills/wp-plugin-zip/)**: a Claude Code and Claude Desktop skill that builds WordPress plugin and theme .zip files that install the first time, and tells you why a zip won't. No more "Plugin file does not exist". [Code](https://github.com/agenciaRSE/wp-plugin-zip).
+- **[Email MCP (IMAP/SMTP)](https://agenciarse.com/en/wordpress-ai/mcp-server/#ejemplo)**: an MCP server that lets Claude read, search, draft and send email from any IMAP/SMTP mailbox (SiteGround, cPanel, Plesk…). One Python file, no dependencies, and the password kept in your system's secure store. [Code](https://github.com/agenciaRSE/imap-email-mcp).
 
 Charity projects:
 
