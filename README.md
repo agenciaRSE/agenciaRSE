@@ -56,27 +56,27 @@ diego_meijide:
   <img src="https://img.shields.io/badge/Chrome_Extensions_(MV3)-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Extensiones de Chrome con Manifest V3">
 </p>
 
-### Extensiones publicadas
-
-- **[KVM Console Paste](https://agenciarse.com/extensiones-navegador/kvm-console-paste/)**: pega texto en consolas KVM web (noVNC) simulando pulsaciones. Gratis en Chrome Web Store.
-- **[Tab Audio Recorder](https://agenciarse.com/extensiones-navegador/tab-audio-recorder/)**: graba el audio de una pestaña de Chrome en WebM o MP3, todo en local.
-- **[CleanTabs AI](https://agenciarse.com/extensiones-navegador/cleantabs-ai/)**: cierra las pestañas que ya no necesitas con la IA del propio navegador y aprende de tus correcciones. Todo en local. Gratis en Chrome Web Store.
-
 ### Código abierto
+
+**Herramientas**
+
+- **[DeskWidgets](https://agenciarse.com/software-a-medida/widget-consumo-claude-code/)**: widgets nativos para el escritorio de Windows con Wi-Fi y red, rendimiento del PC y consumo de Claude Code (tokens, coste y límites de 5 h y semanal). Sin instaladores ni dependencias. [Código](https://github.com/agenciaRSE/deskwidgets).
+- **[CPU & Memory Guard](https://agenciarse.com/skills-claude/cpu-memory-guard/)**: skill y plugin para Claude Code que evita que te deje el ordenador lento: las tareas pesadas van de una en una y con prioridad baja, el navegador automático no usa la GPU y nunca hay más de dos abiertos. [Código](https://github.com/agenciaRSE/cpu-memory-guard).
+- **[Auto Clipboard](https://agenciarse.com/skills-claude/auto-clipboard/)**: skill para Claude Code y Claude Desktop que copia en el portapapeles los comandos, textos, rutas y URLs que Claude te da para pegar. Las contraseñas se generan en local y nunca aparecen en el chat. [Código](https://github.com/agenciaRSE/auto-clipboard).
+- **[Email MCP (IMAP/SMTP)](https://agenciarse.com/ia-wordpress/servidor-mcp/#ejemplo)**: servidor MCP para que Claude lea, busque, redacte y envíe correo desde cualquier buzón IMAP/SMTP (SiteGround, cPanel, Plesk…). Un solo archivo de Python, sin dependencias, y la contraseña en el almacén seguro del sistema. [Código](https://github.com/agenciaRSE/imap-email-mcp).
+- **[ChronoMap](https://www.chronomap.top)**: reloj mundial con mapa y globo 3D, planificador de reuniones y generador de timestamps de Discord. Sin cuenta ni anuncios. [Código](https://github.com/agenciaRSE/chronomap).
+- **[WP Plugin Zip](https://agenciarse.com/skills-claude/wp-plugin-zip/)**: skill para Claude Code y Claude Desktop que crea los .zip de plugins y temas de WordPress para que se instalen a la primera, y explica por qué falla un zip. Se acabó el «El archivo del plugin no existe». [Código](https://github.com/agenciaRSE/wp-plugin-zip).
 
 **Plugins WordPress**
 
 - **[Lupa Zoom](https://agenciarse.com/software-a-medida/plugins-wordpress/lupa-zoom/)**: el zoom de producto de WooCommerce en cualquier imagen de cualquier tema. Una clase CSS, sin jQuery, unos 7 KB. [Código](https://github.com/agenciaRSE/lupa-zoom).
 - **[Simple Favorites → My Favorites](https://github.com/agenciaRSE/sf-to-mf-migrator)**: migra los favoritos de los usuarios entre plugins y reemplaza los shortcodes. Archivado como referencia.
 
-**Herramientas**
+### Extensiones publicadas
 
-- **[DeskWidgets](https://agenciarse.com/software-a-medida/widget-consumo-claude-code/)**: widgets nativos para el escritorio de Windows con Wi-Fi y red, rendimiento del PC y consumo de Claude Code (tokens, coste y límites de 5 h y semanal). Sin instaladores ni dependencias. [Código](https://github.com/agenciaRSE/deskwidgets).
-- **[ChronoMap](https://www.chronomap.top)**: reloj mundial con mapa y globo 3D, planificador de reuniones y generador de timestamps de Discord. Sin cuenta ni anuncios. [Código](https://github.com/agenciaRSE/chronomap).
-- **[Auto Clipboard](https://agenciarse.com/skills-claude/auto-clipboard/)**: skill para Claude Code y Claude Desktop que copia en el portapapeles los comandos, textos, rutas y URLs que Claude te da para pegar. Las contraseñas se generan en local y nunca aparecen en el chat. [Código](https://github.com/agenciaRSE/auto-clipboard).
-- **[WP Plugin Zip](https://agenciarse.com/skills-claude/wp-plugin-zip/)**: skill para Claude Code y Claude Desktop que crea los .zip de plugins y temas de WordPress para que se instalen a la primera, y explica por qué falla un zip. Se acabó el «El archivo del plugin no existe». [Código](https://github.com/agenciaRSE/wp-plugin-zip).
-- **[CPU & Memory Guard](https://agenciarse.com/skills-claude/cpu-memory-guard/)**: skill y plugin para Claude Code que evita que te deje el ordenador lento: las tareas pesadas van de una en una y con prioridad baja, el navegador automático no usa la GPU y nunca hay más de dos abiertos. [Código](https://github.com/agenciaRSE/cpu-memory-guard).
-- **[Email MCP (IMAP/SMTP)](https://agenciarse.com/ia-wordpress/servidor-mcp/#ejemplo)**: servidor MCP para que Claude lea, busque, redacte y envíe correo desde cualquier buzón IMAP/SMTP (SiteGround, cPanel, Plesk…). Un solo archivo de Python, sin dependencias, y la contraseña en el almacén seguro del sistema. [Código](https://github.com/agenciaRSE/imap-email-mcp).
+- **[KVM Console Paste](https://agenciarse.com/extensiones-navegador/kvm-console-paste/)**: pega texto en consolas KVM web (noVNC) simulando pulsaciones. Gratis en Chrome Web Store.
+- **[CleanTabs AI](https://agenciarse.com/extensiones-navegador/cleantabs-ai/)**: cierra las pestañas que ya no necesitas con la IA del propio navegador y aprende de tus correcciones. Todo en local. Gratis en Chrome Web Store.
+- **[Tab Audio Recorder](https://agenciarse.com/extensiones-navegador/tab-audio-recorder/)**: graba el audio de una pestaña de Chrome en WebM o MP3, todo en local.
 
 ### Proyectos solidarios
 
@@ -106,22 +106,22 @@ I'm Diego Meijide, founder of **[AGENCIA RSE](https://agenciarse.com/en/studio/)
 - **AI for WordPress**: assistants and connecting Claude or ChatGPT to your site, with limited permissions and a way to undo. [More](https://agenciarse.com/en/wordpress-ai/)
 - **Custom software and browser extensions** (Manifest V3). [More](https://agenciarse.com/en/browser-extensions/)
 
+Open source:
+
+- **[DeskWidgets](https://agenciarse.com/en/custom-software/claude-code-usage-widget/)**: native Windows desktop widgets for Wi-Fi and network, PC performance and Claude Code usage (tokens, cost and the 5-hour and weekly limits). No installers, no dependencies. [Code](https://github.com/agenciaRSE/deskwidgets).
+- **[CPU & Memory Guard](https://agenciarse.com/en/claude-skills/cpu-memory-guard/)**: a Claude Code skill and plugin that stops Claude from maxing out your CPU, GPU and memory: heavy jobs run one at a time at low priority, the automated browser skips the GPU and never more than two are open. [Code](https://github.com/agenciaRSE/cpu-memory-guard).
+- **[Auto Clipboard](https://agenciarse.com/en/claude-skills/auto-clipboard/)**: a Claude Code and Claude Desktop skill that copies to your clipboard the commands, texts, paths and URLs Claude gives you to paste. Passwords are generated locally and never appear in the chat. [Code](https://github.com/agenciaRSE/auto-clipboard).
+- **[Email MCP (IMAP/SMTP)](https://agenciarse.com/en/wordpress-ai/mcp-server/#ejemplo)**: an MCP server that lets Claude read, search, draft and send email from any IMAP/SMTP mailbox (SiteGround, cPanel, Plesk…). One Python file, no dependencies, and the password kept in your system's secure store. [Code](https://github.com/agenciaRSE/imap-email-mcp).
+- **[ChronoMap](https://www.chronomap.top)**: world clock with a map and 3D globe, meeting planner and Discord timestamp generator. No account, no ads. [Code](https://github.com/agenciaRSE/chronomap).
+- **[WP Plugin Zip](https://agenciarse.com/en/claude-skills/wp-plugin-zip/)**: a Claude Code and Claude Desktop skill that builds WordPress plugin and theme .zip files that install the first time, and tells you why a zip won't. No more "Plugin file does not exist". [Code](https://github.com/agenciaRSE/wp-plugin-zip).
+- **[Lupa Zoom](https://agenciarse.com/en/custom-software/wordpress-plugins/lupa-zoom/)**: the WooCommerce product zoom on any image in any WordPress theme. One CSS class, no jQuery, about 7 KB. [Code](https://github.com/agenciaRSE/lupa-zoom).
+- **[Simple Favorites → My Favorites](https://github.com/agenciaRSE/sf-to-mf-migrator)**: migrates user favorites between plugins and replaces the shortcodes. Archived as a reference.
+
 Browser extensions:
 
 - **[KVM Console Paste](https://agenciarse.com/en/browser-extensions/kvm-console-paste/)**: paste text into web KVM consoles (noVNC) by simulating keystrokes. Free on the Chrome Web Store.
-- **[Tab Audio Recorder](https://agenciarse.com/en/browser-extensions/tab-audio-recorder/)**: record the audio of a Chrome tab as WebM or MP3, all locally.
 - **[CleanTabs AI](https://agenciarse.com/en/browser-extensions/cleantabs-ai/)**: closes the tabs you no longer need using the browser's built-in AI and learns from your corrections. All local. Free on the Chrome Web Store.
-
-Open source:
-
-- **[Lupa Zoom](https://agenciarse.com/en/custom-software/wordpress-plugins/lupa-zoom/)**: the WooCommerce product zoom on any image in any WordPress theme. One CSS class, no jQuery, about 7 KB. [Code](https://github.com/agenciaRSE/lupa-zoom).
-- **[Simple Favorites → My Favorites](https://github.com/agenciaRSE/sf-to-mf-migrator)**: migrates user favorites between plugins and replaces the shortcodes. Archived as a reference.
-- **[DeskWidgets](https://agenciarse.com/en/custom-software/claude-code-usage-widget/)**: native Windows desktop widgets for Wi-Fi and network, PC performance and Claude Code usage (tokens, cost and the 5-hour and weekly limits). No installers, no dependencies. [Code](https://github.com/agenciaRSE/deskwidgets).
-- **[ChronoMap](https://www.chronomap.top)**: world clock with a map and 3D globe, meeting planner and Discord timestamp generator. No account, no ads. [Code](https://github.com/agenciaRSE/chronomap).
-- **[Auto Clipboard](https://agenciarse.com/en/claude-skills/auto-clipboard/)**: a Claude Code and Claude Desktop skill that copies to your clipboard the commands, texts, paths and URLs Claude gives you to paste. Passwords are generated locally and never appear in the chat. [Code](https://github.com/agenciaRSE/auto-clipboard).
-- **[WP Plugin Zip](https://agenciarse.com/en/claude-skills/wp-plugin-zip/)**: a Claude Code and Claude Desktop skill that builds WordPress plugin and theme .zip files that install the first time, and tells you why a zip won't. No more "Plugin file does not exist". [Code](https://github.com/agenciaRSE/wp-plugin-zip).
-- **[CPU & Memory Guard](https://agenciarse.com/en/claude-skills/cpu-memory-guard/)**: a Claude Code skill and plugin that stops Claude from maxing out your CPU, GPU and memory: heavy jobs run one at a time at low priority, the automated browser skips the GPU and never more than two are open. [Code](https://github.com/agenciaRSE/cpu-memory-guard).
-- **[Email MCP (IMAP/SMTP)](https://agenciarse.com/en/wordpress-ai/mcp-server/#ejemplo)**: an MCP server that lets Claude read, search, draft and send email from any IMAP/SMTP mailbox (SiteGround, cPanel, Plesk…). One Python file, no dependencies, and the password kept in your system's secure store. [Code](https://github.com/agenciaRSE/imap-email-mcp).
+- **[Tab Audio Recorder](https://agenciarse.com/en/browser-extensions/tab-audio-recorder/)**: record the audio of a Chrome tab as WebM or MP3, all locally.
 
 Charity projects:
 
