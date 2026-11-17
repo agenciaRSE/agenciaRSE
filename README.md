@@ -69,7 +69,7 @@ diego_meijide:
 
 **Plugins WordPress**
 
-- **[Lupa Zoom](https://agenciarse.com/software-a-medida/plugins-wordpress/lupa-zoom/)**: el zoom de producto de WooCommerce en cualquier imagen de cualquier tema. Una clase CSS, sin jQuery, unos 7 KB. [WordPress.org](https://wordpress.org/plugins/agencia-rse-image-zoom/) · [Código](https://github.com/agenciaRSE/lupa-zoom).
+- **[Lupa Zoom](https://agenciarse.com/software-a-medida/plugins-wordpress/lupa-zoom/)**: el zoom de producto de WooCommerce en cualquier imagen de cualquier tema. Una clase CSS, sin jQuery, unos 7 KB. [WordPress.org](https://wordpress.org/plugins/agencia-rse-image-zoom/) · [Código](https://github.com/agenciaRSE/agencia-rse-image-zoom).
 - **[Simple Favorites → My Favorites](https://github.com/agenciaRSE/sf-to-mf-migrator)**: migra los favoritos de los usuarios entre plugins y reemplaza los shortcodes. Archivado como referencia.
 
 ### Extensiones publicadas
@@ -114,7 +114,7 @@ Open source:
 - **[Email MCP (IMAP/SMTP)](https://agenciarse.com/en/wordpress-ai/mcp-server/#ejemplo)**: an MCP server that lets Claude read, search, draft and send email from any IMAP/SMTP mailbox (SiteGround, cPanel, Plesk…). One Python file, no dependencies, and the password kept in your system's secure store. [Code](https://github.com/agenciaRSE/imap-email-mcp).
 - **[ChronoMap](https://www.chronomap.top)**: world clock with a map and 3D globe, meeting planner and Discord timestamp generator. No account, no ads. [Code](https://github.com/agenciaRSE/chronomap).
 - **[WP Plugin Zip](https://agenciarse.com/en/claude-skills/wp-plugin-zip/)**: a Claude Code and Claude Desktop skill that builds WordPress plugin and theme .zip files that install the first time, and tells you why a zip won't. No more "Plugin file does not exist". [Code](https://github.com/agenciaRSE/wp-plugin-zip).
-- **[Lupa Zoom](https://agenciarse.com/en/custom-software/wordpress-plugins/lupa-zoom/)**: the WooCommerce product zoom on any image in any WordPress theme. One CSS class, no jQuery, about 7 KB. [WordPress.org](https://wordpress.org/plugins/agencia-rse-image-zoom/) · [Code](https://github.com/agenciaRSE/lupa-zoom).
+- **[Lupa Zoom](https://agenciarse.com/en/custom-software/wordpress-plugins/lupa-zoom/)**: the WooCommerce product zoom on any image in any WordPress theme. One CSS class, no jQuery, about 7 KB. [WordPress.org](https://wordpress.org/plugins/agencia-rse-image-zoom/) · [Code](https://github.com/agenciaRSE/agencia-rse-image-zoom).
 - **[Simple Favorites → My Favorites](https://github.com/agenciaRSE/sf-to-mf-migrator)**: migrates user favorites between plugins and replaces the shortcodes. Archived as a reference.
 
 Browser extensions:
