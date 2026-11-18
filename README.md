@@ -70,6 +70,7 @@ diego_meijide:
 **Plugins WordPress**
 
 - **[Lupa Zoom](https://agenciarse.com/software-a-medida/plugins-wordpress/lupa-zoom/)**: el zoom de producto de WooCommerce en cualquier imagen de cualquier tema. Una clase CSS, sin jQuery, unos 7 KB. [WordPress.org](https://wordpress.org/plugins/agencia-rse-image-zoom/) · [Código](https://github.com/agenciaRSE/agencia-rse-image-zoom).
+- **[Staging Guard](https://agenciarse.com/software-a-medida/plugins-wordpress/staging-guard/)**: tu copia de pruebas de WordPress fuera de Google y de tus estadísticas. Pone noindex en toda la web, corta GA4, GTM, Google Ads y el píxel de Meta, pausa los webhooks de WooCommerce y, si quieres, para o redirige el correo. No cambia ningún ajuste guardado y no hace nada en la web real. [Código](https://github.com/agenciaRSE/agencia-rse-staging-guard).
 - **[Simple Favorites → My Favorites](https://github.com/agenciaRSE/sf-to-mf-migrator)**: migra los favoritos de los usuarios entre plugins y reemplaza los shortcodes. Archivado como referencia.
 
 ### Extensiones publicadas
@@ -115,6 +116,7 @@ Open source:
 - **[ChronoMap](https://www.chronomap.top)**: world clock with a map and 3D globe, meeting planner and Discord timestamp generator. No account, no ads. [Code](https://github.com/agenciaRSE/chronomap).
 - **[WP Plugin Zip](https://agenciarse.com/en/claude-skills/wp-plugin-zip/)**: a Claude Code and Claude Desktop skill that builds WordPress plugin and theme .zip files that install the first time, and tells you why a zip won't. No more "Plugin file does not exist". [Code](https://github.com/agenciaRSE/wp-plugin-zip).
 - **[Lupa Zoom](https://agenciarse.com/en/custom-software/wordpress-plugins/lupa-zoom/)**: the WooCommerce product zoom on any image in any WordPress theme. One CSS class, no jQuery, about 7 KB. [WordPress.org](https://wordpress.org/plugins/agencia-rse-image-zoom/) · [Code](https://github.com/agenciaRSE/agencia-rse-image-zoom).
+- **[Staging Guard](https://agenciarse.com/en/custom-software/wordpress-plugins/staging-guard/)**: keeps your WordPress test copy out of Google and out of your analytics. Noindex everywhere, GA4, GTM, Google Ads and the Meta pixel off, WooCommerce webhooks paused and, if you want, email stopped or redirected. It never changes a saved setting and does nothing on the live site. [Code](https://github.com/agenciaRSE/agencia-rse-staging-guard).
 - **[Simple Favorites → My Favorites](https://github.com/agenciaRSE/sf-to-mf-migrator)**: migrates user favorites between plugins and replaces the shortcodes. Archived as a reference.
 
 Browser extensions:
