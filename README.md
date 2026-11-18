@@ -90,8 +90,8 @@ diego_meijide:
 ### Mi actividad
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agenciaRSE/agenciaRSE/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/agenciaRSE/agenciaRSE/output/github-snake.svg" width="100%" alt="Serpiente que recorre y se come el calendario de contribuciones de GitHub de Diego Meijide">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agenciaRSE/agenciaRSE/output/faro-dark.svg">
+  <img src="https://raw.githubusercontent.com/agenciaRSE/agenciaRSE/output/faro.svg" width="100%" alt="La Torre de Hércules de A Coruña, de noche, barre con su haz el calendario de contribuciones de GitHub de Diego Meijide; cada día se ilumina al pasar la luz">
 </picture>
 
 <details>
